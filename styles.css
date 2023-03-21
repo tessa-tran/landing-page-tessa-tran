@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(178, 213, 125);
+}
+
+.header-column{
+   background-image: url(flowers-4.jpg); no repeat;
+
+}
+
+.hero{
+    background-image: url(flowers-4.jpg); no repeat;
+    min-height: 50vh;
+}
+
+.subtitle {
+    color: rgb(254, 254, 254);
+}
+
+.cta-column{
+    display: flex;
+    justify-content: center;
+}
+
+.why-column{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.contact-us-column{
+    background-image: url(flowers-3.jpg);no repeat;
+    color:  rgb(254, 254, 254);
+    font-size: 20px;
+}
+
+.social-proof-column{
+    color:  rgb(254, 254, 254);
+}
+
+.footer{
+    background-image: url(daisies.jpg); no repeat;
+    height: 5vh;
+}
